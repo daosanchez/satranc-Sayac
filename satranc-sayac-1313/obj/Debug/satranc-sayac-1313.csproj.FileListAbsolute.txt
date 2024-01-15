@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\obj\Debug\satranc-sayac-1313.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\obj\Debug\satranc-sayac-1313.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\obj\Debug\satranc_sayac_1313.Form1.resources
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\obj\Debug\satranc_sayac_1313.Properties.Resources.resources
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\obj\Debug\satranc-sayac-1313.csproj.GenerateResource.cache
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\obj\Debug\satranc-sayac-1313.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\bin\Debug\satranc-sayac-1313.exe.config
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\bin\Debug\satranc-sayac-1313.exe
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\bin\Debug\satranc-sayac-1313.pdb
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\obj\Debug\satranc-sayac-1313.exe
+C:\Users\User\source\repos\satranc-sayac-1313\satranc-sayac-1313\obj\Debug\satranc-sayac-1313.pdb
